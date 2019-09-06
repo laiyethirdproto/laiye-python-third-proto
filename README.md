@@ -1,2 +1,2 @@
-# laiye-third-proto
+# laiye-python-third-proto
 laiye use third proto
