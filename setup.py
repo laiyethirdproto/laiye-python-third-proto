@@ -10,7 +10,7 @@ with open('requirements.txt', 'r') as f:
     requirements = f.read().split()
 
 setup(name='laiye-python-third-proto',
-      version='0.0.1',
+      version='0.1.1',
       description='Python laiye third proto',
       long_description=long_description,
       long_description_content_type="text/markdown",
