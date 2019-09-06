@@ -1,4 +1,1 @@
 setuptools==40.2.0
-grpcio==1.15.0
-protobuf==3.6.1
-grpc==0.3-19
